@@ -6,11 +6,11 @@ Paper: [Computational insights into how cationic residue length tunes antibacter
 ![Graphical abstract]()
 
 ## Files
-- [1_qm](): contains input and output files of QM calculations
+- [1_qm](https://github.com/mersalas/qm_cmd/tree/main/1_qm): contains input and output files of QM calculations
 - [2_md](): 
-    - [coord](): initial structures of lipopeptides in pdb format
-    - [output](): output files of cMD simulations and analysis
-    - [rmsd-rg-rama](): script to plot results of conformational analysis
+    - [coord](https://github.com/mersalas/qm_cmd/tree/main/2_md/coord): initial structures of lipopeptides in pdb format
+    - [output](https://github.com/mersalas/qm_cmd/tree/main/2_md/output): output files of cMD simulations and analysis
+    - [rmsd-rg-rama](https://github.com/mersalas/qm_cmd/tree/main/2_md): script to plot results of conformational analysis
 
 ## How to cite:
 ```bibtex

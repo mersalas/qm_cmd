@@ -1,0 +1,302 @@
+SEQRES   1 A    9  CHX CBK PHE HIS HIS ILE ORN HIS UNK
+HETATM    1  C   CHX A   1       0.551   0.489   0.084  1.00  0.00           C
+HETATM    2  O   CHX A   1       0.168   1.390  -0.635  1.00  0.00           O
+HETATM    3  C1  CHX A   1      -0.027  -0.923   0.021  1.00  0.00           C
+HETATM    4  H11 CHX A   1      -0.427  -1.185   1.011  1.00  0.00           H
+HETATM    5  H12 CHX A   1       0.786  -1.629  -0.194  1.00  0.00           H
+HETATM    6  C2  CHX A   1      -1.139  -1.064  -1.046  1.00  0.00           C
+HETATM    7  H21 CHX A   1      -1.932  -0.340  -0.824  1.00  0.00           H
+HETATM    8  H22 CHX A   1      -0.725  -0.781  -2.022  1.00  0.00           H
+HETATM    9  C3  CHX A   1      -1.711  -2.502  -1.093  1.00  0.00           C
+HETATM   10  H31 CHX A   1      -0.893  -3.202  -1.297  1.00  0.00           H
+HETATM   11  H32 CHX A   1      -2.098  -2.762  -0.101  1.00  0.00           H
+HETATM   12  C4  CHX A   1      -2.835  -2.735  -2.140  1.00  0.00           C
+HETATM   13  H4  CHX A   1      -3.132  -3.787  -2.051  1.00  0.00           H
+HETATM   14  C5  CHX A   1      -4.099  -1.887  -1.841  1.00  0.00           C
+HETATM   15  H51 CHX A   1      -3.836  -0.824  -1.801  1.00  0.00           H
+HETATM   16  H52 CHX A   1      -4.498  -2.152  -0.855  1.00  0.00           H
+HETATM   17  C9  CHX A   1      -2.333  -2.533  -3.593  1.00  0.00           C
+HETATM   18  H91 CHX A   1      -1.913  -1.527  -3.709  1.00  0.00           H
+HETATM   19  H92 CHX A   1      -1.523  -3.241  -3.807  1.00  0.00           H
+HETATM   20  C6  CHX A   1      -5.205  -2.075  -2.904  1.00  0.00           C
+HETATM   21  H61 CHX A   1      -5.600  -3.098  -2.847  1.00  0.00           H
+HETATM   22  H62 CHX A   1      -6.040  -1.400  -2.689  1.00  0.00           H
+HETATM   23  C8  CHX A   1      -3.455  -2.715  -4.640  1.00  0.00           C
+HETATM   24  H81 CHX A   1      -3.068  -2.488  -5.639  1.00  0.00           H
+HETATM   25  H82 CHX A   1      -3.778  -3.765  -4.656  1.00  0.00           H
+HETATM   26  C7  CHX A   1      -4.672  -1.819  -4.329  1.00  0.00           C
+HETATM   27  H71 CHX A   1      -5.469  -1.999  -5.065  1.00  0.00           H
+HETATM   28  H72 CHX A   1      -4.383  -0.763  -4.428  1.00  0.00           H
+HETATM   29  N   CBK A   2       1.515   0.743   0.964  1.00  0.00           N
+HETATM   30  H   CBK A   2       1.866   0.026   1.583  1.00  0.00           H
+HETATM   31  CA  CBK A   2       2.122   2.093   1.079  1.00  0.00           C
+HETATM   32  HA  CBK A   2       1.666   2.737   0.323  1.00  0.00           H
+HETATM   33  C   CBK A   2       3.655   2.132   0.809  1.00  0.00           C
+HETATM   34  O   CBK A   2       4.471   1.747   1.625  1.00  0.00           O
+HETATM   35  CB  CBK A   2       1.772   2.665   2.477  1.00  0.00           C
+HETATM   36  HB2 CBK A   2       2.331   3.596   2.636  1.00  0.00           H
+HETATM   37  HB3 CBK A   2       2.132   1.960   3.236  1.00  0.00           H
+HETATM   38  CG  CBK A   2       0.256   2.927   2.681  1.00  0.00           C
+HETATM   39  HG2 CBK A   2      -0.102   3.623   1.912  1.00  0.00           H
+HETATM   40  HG3 CBK A   2      -0.309   1.992   2.551  1.00  0.00           H
+HETATM   41  CD  CBK A   2      -0.045   3.505   4.089  1.00  0.00           C
+HETATM   42  HD2 CBK A   2       0.538   4.425   4.226  1.00  0.00           H
+HETATM   43  HD3 CBK A   2       0.301   2.790   4.847  1.00  0.00           H
+HETATM   44  CE  CBK A   2      -1.537   3.827   4.350  1.00  0.00           C
+HETATM   45  HE2 CBK A   2      -1.882   4.602   3.652  1.00  0.00           H
+HETATM   46  HE3 CBK A   2      -2.151   2.930   4.188  1.00  0.00           H
+HETATM   47  NZ  CBK A   2      -1.725   4.297   5.732  1.00  0.00           N
+HETATM   48  HZ  CBK A   2      -0.935   4.310   6.356  1.00  0.00           H
+HETATM   49  C1  CBK A   2      -2.908   4.824   6.208  1.00  0.00           C
+HETATM   50  O1  CBK A   2      -3.905   4.870   5.521  1.00  0.00           O
+HETATM   51  C2  CBK A   2      -2.862   5.410   7.626  1.00  0.00           C
+HETATM   52  H21 CBK A   2      -3.860   5.804   7.855  1.00  0.00           H
+HETATM   53  H22 CBK A   2      -2.670   4.592   8.330  1.00  0.00           H
+HETATM   54  C3  CBK A   2      -1.801   6.531   7.802  1.00  0.00           C
+HETATM   55  H31 CBK A   2      -0.815   6.123   7.553  1.00  0.00           H
+HETATM   56  H32 CBK A   2      -2.009   7.336   7.086  1.00  0.00           H
+HETATM   57  C4  CBK A   2      -1.770   7.121   9.239  1.00  0.00           C
+HETATM   58  H41 CBK A   2      -2.772   7.496   9.484  1.00  0.00           H
+HETATM   59  H42 CBK A   2      -1.557   6.318   9.958  1.00  0.00           H
+HETATM   60  C5  CBK A   2      -0.743   8.275   9.442  1.00  0.00           C
+HETATM   61  H5  CBK A   2      -0.969   9.064   8.712  1.00  0.00           H
+HETATM   62  C6  CBK A   2      -0.908   8.889  10.861  1.00  0.00           C
+HETATM   63  H61 CBK A   2      -0.797   8.097  11.613  1.00  0.00           H
+HETATM   64  H62 CBK A   2      -1.921   9.295  10.975  1.00  0.00           H
+HETATM   65  C10 CBK A   2       0.727   7.821   9.216  1.00  0.00           C
+HETATM   66 H101 CBK A   2       0.874   7.507   8.175  1.00  0.00           H
+HETATM   67 H102 CBK A   2       0.941   6.950   9.849  1.00  0.00           H
+HETATM   68  C7  CBK A   2       0.118  10.008  11.161  1.00  0.00           C
+HETATM   69  H71 CBK A   2      -0.090  10.875  10.520  1.00  0.00           H
+HETATM   70  H72 CBK A   2       0.002  10.344  12.199  1.00  0.00           H
+HETATM   71  C9  CBK A   2       1.757   8.933   9.525  1.00  0.00           C
+HETATM   72  H91 CBK A   2       2.774   8.527   9.433  1.00  0.00           H
+HETATM   73  H92 CBK A   2       1.666   9.730   8.775  1.00  0.00           H
+HETATM   74  C8  CBK A   2       1.570   9.541  10.931  1.00  0.00           C
+HETATM   75  H81 CBK A   2       2.256  10.388  11.061  1.00  0.00           H
+HETATM   76  H82 CBK A   2       1.839   8.794  11.692  1.00  0.00           H
+ATOM     77  N   PHE A   3       4.088   2.604  -0.357  1.00  0.00           N
+ATOM     78  CA  PHE A   3       5.508   2.652  -0.635  1.00  0.00           C
+ATOM     79  HA  PHE A   3       5.959   2.414   0.327  1.00  0.00           H
+ATOM     80  CB  PHE A   3       5.929   1.624  -1.672  1.00  0.00           C
+ATOM     81  HB1 PHE A   3       5.496   2.016  -2.592  1.00  0.00           H
+ATOM     82  HB2 PHE A   3       5.487   0.654  -1.446  1.00  0.00           H
+ATOM     83  CG  PHE A   3       7.429   1.496  -1.916  1.00  0.00           C
+ATOM     84  CD1 PHE A   3       8.266   0.712  -1.091  1.00  0.00           C
+ATOM     85  HD1 PHE A   3       7.915   0.243  -0.184  1.00  0.00           H
+ATOM     86  CE1 PHE A   3       9.544   0.370  -1.526  1.00  0.00           C
+ATOM     87  HE1 PHE A   3      10.086  -0.284  -0.859  1.00  0.00           H
+ATOM     88  CZ  PHE A   3      10.087   1.093  -2.592  1.00  0.00           C
+ATOM     89  HZ  PHE A   3      11.128   0.896  -2.803  1.00  0.00           H
+ATOM     90  CE2 PHE A   3       9.352   2.044  -3.220  1.00  0.00           C
+ATOM     91  HE2 PHE A   3       9.858   2.658  -3.950  1.00  0.00           H
+ATOM     92  CD2 PHE A   3       7.978   2.206  -3.016  1.00  0.00           C
+ATOM     93  HD2 PHE A   3       7.438   2.944  -3.589  1.00  0.00           H
+ATOM     94  C   PHE A   3       6.105   4.071  -0.928  1.00  0.00           C
+ATOM     95  O   PHE A   3       6.858   4.662  -0.117  1.00  0.00           O
+ATOM     96  H   PHE A   3       3.427   2.928  -1.047  1.00  0.00           H
+ATOM     97  N   HIS A   4       5.878   4.676  -2.104  1.00  0.00           N
+ATOM     98  H   HIS A   4       5.325   4.204  -2.805  1.00  0.00           H
+ATOM     99  CA  HIS A   4       6.515   5.936  -2.587  1.00  0.00           C
+ATOM    100  C   HIS A   4       5.808   7.141  -1.900  1.00  0.00           C
+ATOM    101  O   HIS A   4       4.595   7.107  -1.761  1.00  0.00           O
+ATOM    102  CB  HIS A   4       6.618   6.085  -4.070  1.00  0.00           C
+ATOM    103  CG  HIS A   4       7.487   7.234  -4.524  1.00  0.00           C
+ATOM    104  CD2 HIS A   4       8.754   7.262  -5.017  1.00  0.00           C
+ATOM    105  ND1 HIS A   4       7.046   8.552  -4.487  1.00  0.00           N
+ATOM    106  CE1 HIS A   4       8.017   9.320  -4.941  1.00  0.00           C
+ATOM    107  NE2 HIS A   4       9.041   8.568  -5.261  1.00  0.00           N
+ATOM    108  HA  HIS A   4       7.537   5.925  -2.209  1.00  0.00           H
+ATOM    109  HB2 HIS A   4       7.032   5.163  -4.478  1.00  0.00           H
+ATOM    110  HB3 HIS A   4       5.616   6.226  -4.476  1.00  0.00           H
+ATOM    111  HD2 HIS A   4       9.403   6.415  -5.182  1.00  0.00           H
+ATOM    112  HE1 HIS A   4       7.975  10.396  -5.035  1.00  0.00           H
+ATOM    113  HE2 HIS A   4       9.916   8.909  -5.635  1.00  0.00           H
+ATOM    114  N   HIS A   5       6.626   8.166  -1.575  1.00  0.00           N
+ATOM    115  H   HIS A   5       7.581   8.127  -1.904  1.00  0.00           H
+ATOM    116  CA  HIS A   5       6.140   9.142  -0.558  1.00  0.00           C
+ATOM    117  C   HIS A   5       4.999  10.032  -0.992  1.00  0.00           C
+ATOM    118  O   HIS A   5       4.305  10.553  -0.056  1.00  0.00           O
+ATOM    119  CB  HIS A   5       7.263   9.932   0.071  1.00  0.00           C
+ATOM    120  CG  HIS A   5       7.788  11.055  -0.793  1.00  0.00           C
+ATOM    121  CD2 HIS A   5       7.578  12.397  -0.746  1.00  0.00           C
+ATOM    122  ND1 HIS A   5       8.645  10.823  -1.862  1.00  0.00           N
+ATOM    123  CE1 HIS A   5       8.927  11.986  -2.419  1.00  0.00           C
+ATOM    124  NE2 HIS A   5       8.300  12.933  -1.767  1.00  0.00           N
+ATOM    125  HA  HIS A   5       5.734   8.533   0.250  1.00  0.00           H
+ATOM    126  HB2 HIS A   5       8.086   9.249   0.279  1.00  0.00           H
+ATOM    127  HB3 HIS A   5       6.910  10.352   1.011  1.00  0.00           H
+ATOM    128  HD2 HIS A   5       6.961  12.932  -0.040  1.00  0.00           H
+ATOM    129  HE1 HIS A   5       9.571  12.132  -3.274  1.00  0.00           H
+ATOM    130  HE2 HIS A   5       8.346  13.917  -1.990  1.00  0.00           H
+ATOM    131  N   ILE A   6       4.723  10.199  -2.335  1.00  0.00           N
+ATOM    132  H   ILE A   6       5.381   9.788  -2.981  1.00  0.00           H
+ATOM    133  CA  ILE A   6       3.777  11.126  -2.892  1.00  0.00           C
+ATOM    134  C   ILE A   6       2.526  10.451  -3.433  1.00  0.00           C
+ATOM    135  O   ILE A   6       1.577  11.221  -3.613  1.00  0.00           O
+ATOM    136  CB  ILE A   6       4.365  12.006  -4.026  1.00  0.00           C
+ATOM    137  CG2 ILE A   6       5.643  12.676  -3.534  1.00  0.00           C
+ATOM    138  CG1 ILE A   6       4.682  11.133  -5.235  1.00  0.00           C
+ATOM    139  CD1 ILE A   6       5.022  12.021  -6.428  1.00  0.00           C
+ATOM    140  HA  ILE A   6       3.465  11.795  -2.090  1.00  0.00           H
+ATOM    141  HB  ILE A   6       3.639  12.769  -4.307  1.00  0.00           H
+ATOM    142 HG12 ILE A   6       5.532  10.491  -5.006  1.00  0.00           H
+ATOM    143 HG13 ILE A   6       3.815  10.518  -5.476  1.00  0.00           H
+ATOM    144 HD11 ILE A   6       5.249  11.398  -7.292  1.00  0.00           H
+ATOM    145 HD12 ILE A   6       4.173  12.664  -6.656  1.00  0.00           H
+ATOM    146 HD13 ILE A   6       5.890  12.637  -6.186  1.00  0.00           H
+ATOM    147 HG21 ILE A   6       5.417  13.301  -2.669  1.00  0.00           H
+ATOM    148 HG22 ILE A   6       6.058  13.296  -4.330  1.00  0.00           H
+ATOM    149 HG23 ILE A   6       6.369  11.914  -3.251  1.00  0.00           H
+HETATM  150  N   ORN A   7       2.450   9.181  -3.624  1.00  0.00           N
+HETATM  151  H   ORN A   7       3.356   8.748  -3.508  1.00  0.00           H
+HETATM  152  CA  ORN A   7       1.374   8.461  -4.291  1.00  0.00           C
+HETATM  153  C   ORN A   7      -0.055   8.598  -3.591  1.00  0.00           C
+HETATM  154  O   ORN A   7      -1.074   7.977  -4.006  1.00  0.00           O
+HETATM  155  CB  ORN A   7       1.754   6.990  -4.362  1.00  0.00           C
+HETATM  156  CG  ORN A   7       2.976   6.830  -5.260  1.00  0.00           C
+HETATM  157  CD  ORN A   7       3.371   5.358  -5.325  1.00  0.00           C
+HETATM  158  NE  ORN A   7       4.527   5.205  -6.182  1.00  0.00           N
+HETATM  159  HA  ORN A   7       1.292   8.841  -5.310  1.00  0.00           H
+HETATM  160  HB2 ORN A   7       1.988   6.625  -3.361  1.00  0.00           H
+HETATM  161  HB3 ORN A   7       0.923   6.417  -4.773  1.00  0.00           H
+HETATM  162  HG2 ORN A   7       2.740   7.188  -6.262  1.00  0.00           H
+HETATM  163  HG3 ORN A   7       3.805   7.410  -4.853  1.00  0.00           H
+HETATM  164  HD2 ORN A   7       3.611   5.001  -4.325  1.00  0.00           H
+HETATM  165  HD3 ORN A   7       2.541   4.778  -5.729  1.00  0.00           H
+HETATM  166  HE1 ORN A   7       4.789   4.231  -6.226  1.00  0.00           H
+HETATM  167  HE2 ORN A   7       4.305   5.537  -7.110  1.00  0.00           H
+HETATM  168  HE3 ORN A   7       5.296   5.744  -5.809  1.00  0.00           H
+ATOM    169  N   HIS A   8      -0.005   9.271  -2.377  1.00  0.00           N
+ATOM    170  H   HIS A   8       0.841   9.805  -2.240  1.00  0.00           H
+ATOM    171  CA  HIS A   8      -1.111   9.214  -1.332  1.00  0.00           C
+ATOM    172  C   HIS A   8      -2.516   9.394  -1.940  1.00  0.00           C
+ATOM    173  O   HIS A   8      -2.827  10.265  -2.788  1.00  0.00           O
+ATOM    174  CB  HIS A   8      -0.848  10.211  -0.221  1.00  0.00           C
+ATOM    175  CG  HIS A   8      -1.737  10.049   0.988  1.00  0.00           C
+ATOM    176  CD2 HIS A   8      -1.496   9.516   2.216  1.00  0.00           C
+ATOM    177  ND1 HIS A   8      -3.061  10.474   0.992  1.00  0.00           N
+ATOM    178  CE1 HIS A   8      -3.574  10.200   2.177  1.00  0.00           C
+ATOM    179  NE2 HIS A   8      -2.656   9.630   2.918  1.00  0.00           N
+ATOM    180  HA  HIS A   8      -1.080   8.221  -0.886  1.00  0.00           H
+ATOM    181  HB2 HIS A   8      -0.995  11.213  -0.620  1.00  0.00           H
+ATOM    182  HB3 HIS A   8       0.191  10.111   0.095  1.00  0.00           H
+ATOM    183  HD2 HIS A   8      -0.569   9.087   2.565  1.00  0.00           H
+ATOM    184  HE1 HIS A   8      -4.587  10.413   2.486  1.00  0.00           H
+ATOM    185  HE2 HIS A   8      -2.791   9.320   3.870  1.00  0.00           H
+TER     186      HIS A   8
+CONECT    1   29    2    3
+CONECT    2    1
+CONECT    3    1    4    6    5
+CONECT    4    3
+CONECT    5    3
+CONECT    6    3    7    8    9
+CONECT    7    6
+CONECT    8    6
+CONECT    9    6   10   12   11
+CONECT   10    9
+CONECT   11    9
+CONECT   12    9   13   14   17
+CONECT   13   12
+CONECT   14   12   16   15   20
+CONECT   15   14
+CONECT   16   14
+CONECT   17   12   23   18   19
+CONECT   18   17
+CONECT   19   17
+CONECT   20   14   22   26   21
+CONECT   21   20
+CONECT   22   20
+CONECT   23   26   25   24   17
+CONECT   24   23
+CONECT   25   23
+CONECT   26   20   27   23   28
+CONECT   27   26
+CONECT   28   26
+CONECT   29    1   31   30
+CONECT   30   29
+CONECT   31   33   32   35   29
+CONECT   32   31
+CONECT   33   34   31   77
+CONECT   34   33
+CONECT   35   31   36   38   37
+CONECT   36   35
+CONECT   37   35
+CONECT   38   35   41   39   40
+CONECT   39   38
+CONECT   40   38
+CONECT   41   43   42   38   44
+CONECT   42   41
+CONECT   43   41
+CONECT   44   41   47   45   46
+CONECT   45   44
+CONECT   46   44
+CONECT   47   49   44   48
+CONECT   48   47
+CONECT   49   47   51   50
+CONECT   50   49
+CONECT   51   49   53   52   54
+CONECT   52   51
+CONECT   53   51
+CONECT   54   51   56   55   57
+CONECT   55   54
+CONECT   56   54
+CONECT   57   54   60   59   58
+CONECT   58   57
+CONECT   59   57
+CONECT   60   65   57   62   61
+CONECT   61   60
+CONECT   62   60   68   63   64
+CONECT   63   62
+CONECT   64   62
+CONECT   65   60   67   71   66
+CONECT   66   65
+CONECT   67   65
+CONECT   68   62   69   70   74
+CONECT   69   68
+CONECT   70   68
+CONECT   71   65   74   72   73
+CONECT   72   71
+CONECT   73   71
+CONECT   74   68   71   75   76
+CONECT   75   74
+CONECT   76   74
+CONECT   77   33   78   96
+CONECT  134  133  150  135
+CONECT  150  134  152  151
+CONECT  151  150
+CONECT  152  153  150  159  155
+CONECT  153  154  169  152
+CONECT  154  153
+CONECT  155  152  156  161  160
+CONECT  156  155  157  163  162
+CONECT  157  164  156  165  158
+CONECT  158  157  166  167  168
+CONECT  159  152
+CONECT  160  155
+CONECT  161  155
+CONECT  162  156
+CONECT  163  156
+CONECT  164  157
+CONECT  165  157
+CONECT  166  158
+CONECT  167  158
+CONECT  168  158
+CONECT  169  153  170  171
+CONECT  170  169
+CONECT  171  172  169  180  174
+CONECT  172  173  171
+CONECT  173  172
+CONECT  174  171  181  182  175
+CONECT  175  174  177  176
+CONECT  176  175  179  183
+CONECT  177  175  178
+CONECT  178  177  184  179
+CONECT  179  176  178  185
+CONECT  180  171
+CONECT  181  174
+CONECT  182  174
+CONECT  183  176
+CONECT  184  178
+CONECT  185  179
+END
